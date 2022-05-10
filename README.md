@@ -1,5 +1,5 @@
 # Analysis-of-Passenger-Airplane-Accidents
-Analysis of Passenger Airplane Accidents from 1950 to Present Using K-Means
+Analysis of Passenger Airplane Accidents from 1950 to Present Using K-Means.
 There are 10 input values in the data set, which consists of 142 data. The data includes passenger plane crashes after 1950.
 A value of 0 in the country borders parameter indicates that the headquarters of the aircraft company is outside the country of origin, and a value of 1 indicates that the accident is within the borders of the country. The value of -1 is used for situations where it is not known in which area the plane crashed.
 In the error type parameter, a value of 1 is for human-induced errors, a value of 2 for technical errors, a value of 3 due to weather conditions, a value of 4 for hijacking, a value of 5 for aircraft missing and unexplained accidents, a value of 6 where aircraft collide or collide with an object. The value of 7 is used for external attacks on the aircraft.
