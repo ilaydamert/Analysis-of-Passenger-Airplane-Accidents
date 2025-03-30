@@ -1,0 +1,11 @@
+# IDE dosyaları
+.idea/
+.vscode/
+
+# Derleme dosyaları
+*.class
+*.jar
+*.apk
+
+# MacOS geçici dosyaları
+.DS_Store
